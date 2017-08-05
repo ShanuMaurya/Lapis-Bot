@@ -1,5 +1,5 @@
 # Lapis-Bot
-a basic discord bot for the Lazuli Lair
+a basic discord bot for the Lazuli Lair built using discord.py
 
 
 Commands (case sensitive): 
