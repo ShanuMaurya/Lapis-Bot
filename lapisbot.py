@@ -44,4 +44,4 @@ async def commandlist(ctx):
 	await client.say("Commands (case sensitive): \n **>>lapis**- Best Gem \n **>>my**- try and revive a dead meme \n **>>goodvidya**- Suggests a fun single-player game available on PC \n **>>goodanime**- Suggests a good japanese animated series")
 	
 
-client.run("NDU1MjQzMzI4NzM3Mzc4MzE0.Df668g.2EkAszTvrfdL7VeCVWmzZL71IB")
+client.run("NDU1MjQzMzI4NzM3Mzc4MzE0.Df668g.2EkAszTvrfdL7VeCVWmzZL71IBE")
